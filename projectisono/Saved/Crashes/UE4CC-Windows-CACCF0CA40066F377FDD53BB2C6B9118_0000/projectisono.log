@@ -1,0 +1,455 @@
+﻿Log file open, 05/25/18 12:44:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: projectisono
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1360455916) SRandInit(1360455916).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192687
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.25-10.44.08:801][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.25-10.44.08:801][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.25-10.44.09:376][  0]LogInit: Computer: MULIASSEH
+[2018.05.25-10.44.09:376][  0]LogInit: User: Lorenzo
+[2018.05.25-10.44.09:376][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.25-10.44.09:376][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.05.25-10.44.09:377][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.25-10.44.09:377][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.25-10.44.09:377][  0]LogMemory: Process Physical Memory: 279.44 MB used, 279.44 MB peak
+[2018.05.25-10.44.09:377][  0]LogMemory: Process Virtual Memory: 282.35 MB used, 282.35 MB peak
+[2018.05.25-10.44.09:377][  0]LogMemory: Physical Memory: 3408.39 MB used,  12856.20 MB free, 16264.59 MB total
+[2018.05.25-10.44.09:377][  0]LogMemory: Virtual Memory: 4811.95 MB used,  12856.20 MB free, 134217728.00 MB total
+[2018.05.25-10.44.09:632][  0]LogInit: Using OS detected language (fr-FR).
+[2018.05.25-10.44.09:632][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.05.25-10.44.09:635][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.05.25-10.44.09:636][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.05.25-10.44.10:391][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.25-10.44.10:451][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M1000M' (Feature Level 11_0)
+[2018.05.25-10.44.10:451][  0]LogD3D11RHI:       4053/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.25-10.44.10:461][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.05.25-10.44.10:461][  0]LogD3D11RHI:       128/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.25-10.44.10:463][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.25-10.44.10:463][  0]LogD3D11RHI:       0/0/8132 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.25-10.44.10:463][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.25-10.44.10:493][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.25-10.44.10:494][  0]LogD3D11RHI:     GPU DeviceId: 0x13b1 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.25-10.44.10:494][  0]LogWindows: EnumDisplayDevices:
+[2018.05.25-10.44.10:494][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.05.25-10.44.10:494][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.05.25-10.44.10:494][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.05.25-10.44.10:495][  0]LogWindows:    3. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2018.05.25-10.44.10:495][  0]LogWindows:    4. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2018.05.25-10.44.10:495][  0]LogWindows:    5. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2018.05.25-10.44.10:495][  0]LogWindows:    6. 'NVIDIA Quadro M1000M' (P:0 D:0)
+[2018.05.25-10.44.10:495][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.25-10.44.10:495][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M1000M
+[2018.05.25-10.44.10:495][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.25-10.44.10:495][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.25-10.44.10:495][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.05.25-10.44.10:541][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.25-10.44.10:560][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.25-10.44.10:562][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Intermediate/Shaders/WorkingDirectory/2092/).
+[2018.05.25-10.44.10:563][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Lorenzo/AppData/Local/Temp/UnrealShaderWorkingDir/9E3A68A6427D89F4D6BAAB97236C3E02/'.
+[2018.05.25-10.44.10:563][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.25-10.44.11:497][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.25-10.44.11:568][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.25-10.44.11:638][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.25-10.44.11:710][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.25-10.44.11:781][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.25-10.44.11:852][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.25-10.44.11:926][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.25-10.44.11:996][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.25-10.44.12:060][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.25-10.44.12:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.25-10.44.12:199][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.25-10.44.12:268][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.25-10.44.12:338][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.25-10.44.12:408][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.25-10.44.12:476][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.25-10.44.12:617][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.25-10.44.12:617][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.25-10.44.12:675][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.25-10.44.12:799][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.25-10.44.12:840][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.25-10.44.12:909][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.25-10.44.12:976][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.25-10.44.13:044][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.25-10.44.13:113][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.25-10.44.13:113][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.25-10.44.13:827][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.25-10.44.13:912][  0]LogDerivedDataCache: Loaded boot cache 0.08s 93MB C:/Users/Lorenzo/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.25-10.44.13:912][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Lorenzo/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.05.25-10.44.13:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.25-10.44.13:912][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.25-10.44.13:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.25-10.44.13:912][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.25-10.44.13:928][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.25-10.44.13:940][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Lorenzo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.25-10.44.13:949][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.25-10.44.13:949][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.25-10.44.13:950][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.25-10.44.13:950][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.25-10.44.14:229][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.05.25-10.44.14:379][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.25-10.44.14:568][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.05.25-10.44.14:979][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.25-10.44.15:040][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.25-10.44.15:040][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.25-10.44.15:040][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.25-10.44.15:040][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.25-10.44.15:040][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.25-10.44.15:469][  0]LogNetVersion: projectisono , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 293650334)
+[2018.05.25-10.44.16:345][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.647963 seconds
+[2018.05.25-10.44.16:352][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.05.25-10.44.16:352][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.05.25-10.44.16:352][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.25-10.44.16:444][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.25-10.44.19:756][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.25-10.44.19:810][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.25-10.44.20:714][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.25-10.44.21:283][  0]SourceControl: Source control is disabled
+[2018.05.25-10.44.21:283][  0]SourceControl: Source control is disabled
+[2018.05.25-10.44.21:357][  0]SourceControl: Source control is disabled
+[2018.05.25-10.44.21:429][  0]SourceControl: Source control is disabled
+[2018.05.25-10.44.22:292][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.25-10.44.22:662][  0]LogOcInput: OculusInput pre-init called
+[2018.05.25-10.44.23:030][  0]LogEngine: Initializing Engine...
+[2018.05.25-10.44.23:032][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.25-10.44.23:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.25-10.44.23:270][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.25-10.44.23:461][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.25-10.44.23:472][  0]LogInit: XAudio2 using 'Haut-parleur (Conexant ISST Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.25-10.44.23:548][  0]LogInit: FAudioDevice initialized.
+[2018.05.25-10.44.23:648][  0]LogDerivedDataCache: Saved boot cache 0.10s 93MB C:/Users/Lorenzo/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.05.25-10.44.23:663][  0]LogInit: Texture streaming: Enabled
+[2018.05.25-10.44.23:841][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.25-10.44.24:160][  0]LogInit: Transaction tracking system initialized
+[2018.05.25-10.44.24:623][  0]BlueprintLog: New page: Editor Load
+[2018.05.25-10.44.25:951][  0]LocalizationService: Localization service is disabled
+[2018.05.25-10.44.27:081][  0]LogConsoleResponse: Display: 
+[2018.05.25-10.44.27:328][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.25-10.44.27:328][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.25-10.44.27:328][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.25-10.44.28:120][  0]LogFileCache: Scanning file cache for directory 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/' took 0.04s
+[2018.05.25-10.44.28:914][  0]SourceControl: Source control is disabled
+[2018.05.25-10.44.28:914][  0]Cmd: MAP LOAD FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.25-10.44.28:914][  0]LogEditorServer: Warning: Can't find file 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.25-10.44.28:914][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.25-10.44.28:977][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 62.96ms to complete.
+[2018.05.25-10.44.28:977][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.063
+[2018.05.25-10.44.29:077][  0]LogCollectionManager: Loaded 0 collections in 0.002008 seconds
+[2018.05.25-10.44.29:194][  0]LogFileCache: Scanning file cache for directory 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Collections/' took 0.01s
+[2018.05.25-10.44.29:194][  0]LogFileCache: Scanning file cache for directory 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/Developers/Lorenzo/Collections/' took 0.01s
+[2018.05.25-10.44.29:194][  0]LogFileCache: Scanning file cache for directory 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/Collections/' took 0.01s
+[2018.05.25-10.44.29:194][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.25-10.44.29:204][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2386 classes and 500 folders.
+[2018.05.25-10.44.29:304][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.25-10.44.29:357][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.25-10.44.29:490][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.05.25-10.44.29:512][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.25-10.44.29:517][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.25-10.44.29:703][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.05.25-10.44.29:703][  0]LogLoad: (Engine Initialization) Total time: 24.25 seconds
+[2018.05.25-10.44.29:703][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.25-10.44.29:703][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.25-10.44.29:703][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.25-10.44.29:713][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.25-10.44.29:734][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.05.25-10.44.29:874][  2]LogRenderer: Reallocating scene render targets to support 1208x420 Format 9 NumSamples 1 (Frame:1).
+[2018.05.25-10.44.29:924][  2]LogAssetRegistry: Asset discovery search completed in 15.7172 seconds
+[2018.05.25-10.44.29:929][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.25-10.44.29:929][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2018.05.25-10.44.33:867][468]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.25-10.44.33:886][468]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.25-10.44.37:227][865]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.25-10.44.37:540][865]LogBlueprint: Warning: [Compiler Character1] InputAction Event references unknown Action 'TurnTotem' for  InputAction TurnTotem
+[2018.05.25-10.44.37:541][865]LogBlueprint: Warning: [Compiler Character1] InputAction Event references unknown Action 'ChangeWorld' for  InputAction ChangeWorld
+[2018.05.25-10.44.37:553][865]LogBlueprint: Warning: [Compiler character12] InputAction Event references unknown Action 'LightPower' for  InputAction LightPower
+[2018.05.25-10.44.37:583][865]LogBlueprint: Warning: [Compiler Character1] [0032.13] Compile of Character1 successful, but with 2 Warning(s) [in 77 ms] (/Game/LUCAS/L_Blueprints/Character1.Character1)
+[2018.05.25-10.44.37:583][865]LogBlueprint: Warning: [Compiler character12] [0032.13] Compile of character12 successful, but with 1 Warning(s) [in 77 ms] (/Game/LUCAS/L_Blueprints/character12.character12)
+[2018.05.25-10.44.38:241][865]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.25-10.44.39:239][865]LogAIModule: Creating AISystem for world City_Cinematic
+[2018.05.25-10.44.39:353][865]Cmd: MAP LOAD FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.25-10.44.39:353][865]LightingResults: New page: Lighting Build
+[2018.05.25-10.44.39:415][865]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0006 seconds. Added 5 classes and 0 folders.
+[2018.05.25-10.44.39:415][865]LoadErrors: New page: Loading map: City_Cinematic.umap
+[2018.05.25-10.44.39:416][865]MapCheck: New page: Map Check
+[2018.05.25-10.44.39:416][865]LightingResults: New page: Lighting Build
+[2018.05.25-10.44.39:500][865]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.25-10.44.39:704][865]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.25-10.44.39:810][865]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 107.042ms to complete.
+[2018.05.25-10.44.39:811][865]LogFileHelpers: Loading map 'City_Cinematic' took 0.459
+[2018.05.25-10.44.43:311][254]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.05.25-10.45.16:039][511]LogSlate: Took 0.009096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.25-10.45.20:630][853]LogRenderer: Reallocating scene render targets to support 1208x512 Format 9 NumSamples 1 (Frame:2312).
+[2018.05.25-10.48.47:118][164]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.05.25-10.48.51:346][484]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-10.49.05:136][177]LogEditorViewport: Clicking on Actor (LMB): Modou_C (Modou)
+[2018.05.25-10.49.14:083][747]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-10.49.15:175][808]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-10.50.05:040][144]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.25-10.51.50:403][512]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/LUCAS/L_Blueprints/Character11.Character11_C or BlueprintGeneratedClass /Game/LORENZO/Character11.Character11_C
+[2018.05.25-10.56.16:465][286]Cmd: TRANSACTION UNDO
+[2018.05.25-10.56.16:465][286]LogEditorTransaction: Undo Set Float Key Value
+[2018.05.25-10.56.17:888][374]Cmd: TRANSACTION UNDO
+[2018.05.25-10.56.17:888][374]LogEditorTransaction: Undo Set Float Key Value
+[2018.05.25-10.56.45:157][907]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.05.25-10.56.45:763][951]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-10.57.59:111][164]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2018.05.25-10.57.59:644][202]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-10.58.02:996][395]Cmd: TRANSACTION UNDO
+[2018.05.25-10.58.02:996][395]LogEditorTransaction: Undo Animatable Property Changed
+[2018.05.25-10.58.04:692][476]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-10.58.10:386][845]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-10.58.11:034][886]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-10.58.28:776][ 86]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -7740.00,3210.00,100.00
+[2018.05.25-10.58.30:160][204]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -5500.00,3670.00,100.00
+[2018.05.25-10.58.39:033][830]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor228)
+[2018.05.25-10.58.44:481][296]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/LUCAS/L_Blueprints/Character11.Character11_C or BlueprintGeneratedClass /Game/LORENZO/Character11.Character11_C
+[2018.05.25-10.58.50:534][725]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-10.59.18:373][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.25-10.59.20:367][448]LogSavePackage: Save=1403.69ms
+[2018.05.25-10.59.20:368][448]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_Cinematic6B8E5F7B4E42B4C7E54DE3903E81306F.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap'
+[2018.05.25-10.59.20:376][448]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap
+[2018.05.25-10.59.20:418][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic_BuiltData" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset" SILENT=true
+[2018.05.25-10.59.24:921][448]LogSavePackage: Save=2463.42ms
+[2018.05.25-10.59.24:924][448]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_Cinematic_BuiltDataB9042A854259EF5307277CAE4274F0FF.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset'
+[2018.05.25-10.59.24:934][448]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset
+[2018.05.25-11.09.18:968][283]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/LORENZO/City_Cinematic' took 0.013
+[2018.05.25-11.09.19:300][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0010/shot0010_001] ([1] browsable assets)...
+[2018.05.25-11.09.19:302][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0010/shot0010_001]
+[2018.05.25-11.09.19:349][283]LogSavePackage: Save=24.58ms
+[2018.05.25-11.09.19:350][283]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/shot0010_001_Auto11233348C48E22FA75E6861BA663F3CC3.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0010/shot0010_001_Auto1.uasset'
+[2018.05.25-11.09.19:350][283]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0010/shot0010_001_Auto1.uasset
+[2018.05.25-11.09.19:351][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/SequenceMVE/SequenceMVEMaster] ([1] browsable assets)...
+[2018.05.25-11.09.19:351][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/SequenceMVE/SequenceMVEMaster]
+[2018.05.25-11.09.19:411][283]LogSavePackage: Save=35.81ms
+[2018.05.25-11.09.19:411][283]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/SequenceMVEMaster_Auto12B4190C34562A471ECBDEEA403DABA0C.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/SequenceMVEMaster_Auto1.uasset'
+[2018.05.25-11.09.19:412][283]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/SequenceMVEMaster_Auto1.uasset
+[2018.05.25-11.09.19:429][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0020/shot0020_001] ([1] browsable assets)...
+[2018.05.25-11.09.19:429][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0020/shot0020_001]
+[2018.05.25-11.09.19:483][283]LogSavePackage: Save=24.18ms
+[2018.05.25-11.09.19:483][283]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/shot0020_001_Auto1D1EB044643DD08DBA8BB639D73500379.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0020/shot0020_001_Auto1.uasset'
+[2018.05.25-11.09.19:484][283]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0020/shot0020_001_Auto1.uasset
+[2018.05.25-11.09.19:485][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0030/shot0030_001] ([1] browsable assets)...
+[2018.05.25-11.09.19:486][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0030/shot0030_001]
+[2018.05.25-11.09.19:534][283]LogSavePackage: Save=25.29ms
+[2018.05.25-11.09.19:534][283]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/shot0030_001_Auto1F9CFC3B843560C3D00B7469DC4323F4D.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0030/shot0030_001_Auto1.uasset'
+[2018.05.25-11.09.19:536][283]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0030/shot0030_001_Auto1.uasset
+[2018.05.25-11.09.19:537][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0040/shot0040_001] ([1] browsable assets)...
+[2018.05.25-11.09.19:537][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0040/shot0040_001]
+[2018.05.25-11.09.19:587][283]LogSavePackage: Save=28.18ms
+[2018.05.25-11.09.19:587][283]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/shot0040_001_Auto1B317D2914B60A12CE20495989FE5299F.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0040/shot0040_001_Auto1.uasset'
+[2018.05.25-11.09.19:588][283]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0040/shot0040_001_Auto1.uasset
+[2018.05.25-11.09.19:589][283]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0050/shot0050_001] ([1] browsable assets)...
+[2018.05.25-11.09.19:589][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Sequences/SequenceMVE/shots/shot0050/shot0050_001]
+[2018.05.25-11.09.19:633][283]LogSavePackage: Save=24.18ms
+[2018.05.25-11.09.19:633][283]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/shot0050_001_Auto163DDC87A41C9E1BD672D9BABF27DC4A6.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0050/shot0050_001_Auto1.uasset'
+[2018.05.25-11.09.19:634][283]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/Autosaves/Game/Cinematics/Sequences/SequenceMVE/shots/shot0050/shot0050_001_Auto1.uasset
+[2018.05.25-11.09.19:634][283]LogFileHelpers: Auto-saving content packages took 0.664
+[2018.05.25-11.50.22:908][572]LogEditor: Attempting to add actor of class 'CameraRig_Crane' to level at 1130.00,3530.00,1260.00
+[2018.05.25-11.50.24:833][743]LogEditor: Attempting to add actor of class 'CameraRig_Crane' to level at -3310.00,4390.00,190.00
+[2018.05.25-11.50.45:263][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mur_12)
+[2018.05.25-11.50.45:948][722]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-11.50.48:482][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corne_02)
+[2018.05.25-11.50.49:398][952]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-11.51.23:800][327]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -4820.00,5920.00,530.00
+[2018.05.25-11.51.25:205][453]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -3650.00,4130.00,430.00
+[2018.05.25-11.51.31:352][863]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor235)
+[2018.05.25-11.51.32:130][916]Cmd: DELETE
+[2018.05.25-11.51.32:130][916]Cmd: ACTOR DELETE
+[2018.05.25-11.51.32:136][916]LogEditorActor: Deleted Actor: CineCameraActor
+[2018.05.25-11.51.32:192][916]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2018.05.25-11.51.33:571][ 53]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-11.51.42:613][924]Cmd: TRANSACTION UNDO
+[2018.05.25-11.51.42:613][924]LogEditorTransaction: Undo Edit Crane Pitch
+[2018.05.25-11.51.44:791][ 74]LogSlate: Took 0.007075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.25-11.52.03:511][833]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -4790.00,6300.00,540.00
+[2018.05.25-11.52.05:975][ 58]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at -3670.00,4110.00,400.00
+[2018.05.25-11.52.09:295][294]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-11.52.10:503][401]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-11.52.17:447][899]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-11.52.31:515][261]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-11.52.45:392][509]EditorErrors: New page: Actor attachment
+[2018.05.25-11.52.51:271][929]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-11.52.56:739][319]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-11.53.03:027][662]Cmd: MODE ROTGRID=1
+[2018.05.25-11.54.44:277][430]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-11.54.47:892][665]Cmd: TRANSACTION UNDO
+[2018.05.25-11.54.47:892][665]LogEditorTransaction: Undo Rotate Actors
+[2018.05.25-11.54.52:241][937]Cmd: TRANSACTION UNDO
+[2018.05.25-11.54.52:241][937]LogEditorTransaction: Undo Rotate Actors
+[2018.05.25-11.54.57:971][380]Cmd: TRANSACTION UNDO
+[2018.05.25-11.54.57:972][380]LogEditorTransaction: Undo Edit Crane Pitch
+[2018.05.25-11.55.05:122][ 88]Cmd: TRANSACTION UNDO
+[2018.05.25-11.55.05:122][ 88]LogEditorTransaction: Undo Edit Crane Yaw
+[2018.05.25-11.55.30:789][776]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-11.55.43:167][610]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-11.55.57:425][672]Cmd: TRANSACTION UNDO
+[2018.05.25-11.55.57:425][672]LogEditorTransaction: Undo Edit Crane Yaw
+[2018.05.25-11.56.05:374][410]Cmd: TRANSACTION UNDO
+[2018.05.25-11.56.05:374][410]LogEditorTransaction: Undo Edit Crane Pitch
+[2018.05.25-11.56.12:779][876]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-11.56.40:112][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.25-11.56.42:241][466]LogSavePackage: Save=1400.52ms
+[2018.05.25-11.56.42:244][466]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_CinematicD1DC33124F13152898BE47B8FDAA66BA.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap'
+[2018.05.25-11.56.42:256][466]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap
+[2018.05.25-11.56.42:303][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic_BuiltData" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset" SILENT=true
+[2018.05.25-11.56.45:636][466]LogSavePackage: Save=2924.17ms
+[2018.05.25-11.56.45:638][466]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_Cinematic_BuiltDataBC9354B6414977232D3DAB92F5C161C3.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset'
+[2018.05.25-11.56.45:650][466]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset
+[2018.05.25-12.03.30:694][177]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-12.03.45:216][998]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-12.03.49:880][266]Cmd: MODE ROTGRID=0
+[2018.05.25-12.03.56:725][671]Cmd: MODE ROTGRID=1
+[2018.05.25-12.04.23:180][253]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-12.04.26:442][436]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-12.04.29:361][601]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-12.04.51:875][943]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-12.05.10:664][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.25-12.05.12:216][ 56]LogSavePackage: Save=1380.19ms
+[2018.05.25-12.05.12:219][ 56]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_Cinematic27A3FEEB45FFAEFCB98264864054873B.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap'
+[2018.05.25-12.05.12:230][ 56]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap
+[2018.05.25-12.05.12:276][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic_BuiltData" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset" SILENT=true
+[2018.05.25-12.05.14:855][ 56]LogSavePackage: Save=2204.95ms
+[2018.05.25-12.05.14:857][ 56]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_Cinematic_BuiltDataEE067E81431803F7F95D6C8EB0EEC4A3.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset'
+[2018.05.25-12.05.14:869][ 56]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset
+[2018.05.25-12.05.41:677][659]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-12.05.44:664][826]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-12.06.05:834][ 83]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-12.06.17:978][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.25-12.06.19:982][668]LogSavePackage: Save=1878.50ms
+[2018.05.25-12.06.19:982][668]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_Cinematic55EAA2684267B07516E9FFA5CA3FD38A.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap'
+[2018.05.25-12.06.19:995][668]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap
+[2018.05.25-12.06.20:061][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic_BuiltData" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset" SILENT=true
+[2018.05.25-12.06.23:286][668]LogSavePackage: Save=2558.62ms
+[2018.05.25-12.06.23:288][668]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_Cinematic_BuiltDataB95BC76245DBF9CE6324A79B88584D30.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset'
+[2018.05.25-12.06.23:303][668]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset
+[2018.05.25-12.06.29:748][863]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-12.06.44:776][590]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-12.06.51:877][747]LogUObjectHash: Warning: Ambiguous search, could be BlueprintGeneratedClass /Game/LUCAS/L_Blueprints/Character11.Character11_C or BlueprintGeneratedClass /Game/LORENZO/Character11.Character11_C
+[2018.05.25-12.06.53:996][811]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-12.07.10:851][567]LogEditorViewport: Clicking on Actor (LMB): Character11_C (Character11)
+[2018.05.25-12.07.17:483][758]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-12.07.29:265][310]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-12.07.49:555][ 28]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCameraActor257)
+[2018.05.25-12.08.00:739][269]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-12.08.03:786][353]Cmd: TRANSACTION UNDO
+[2018.05.25-12.08.03:786][353]LogEditorTransaction: Undo Edit Crane Pitch
+[2018.05.25-12.08.20:870][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.25-12.08.22:593][ 64]LogSavePackage: Save=1565.97ms
+[2018.05.25-12.08.22:593][ 64]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_CinematicB5FF2EC54A3DE76A0737F4BC61ECB454.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap'
+[2018.05.25-12.08.22:604][ 64]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic.umap
+[2018.05.25-12.08.22:683][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LORENZO/City_Cinematic_BuiltData" FILE="H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset" SILENT=true
+[2018.05.25-12.08.24:977][ 64]LogSavePackage: Save=2234.22ms
+[2018.05.25-12.08.24:980][ 64]LogSavePackage: Moving 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Saved/City_Cinematic_BuiltData773E4DE2483FAFE474F4C899D5951881.tmp' to 'H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset'
+[2018.05.25-12.08.24:997][ 64]LogSavePackage: Display: Finished SavePackage H:/e-art/ISONO/00_sources/UNREAL_Project/projectisono/Content/LORENZO/City_Cinematic_BuiltData.uasset
+[2018.05.25-12.08.44:870][677]LogEditorViewport: Clicking on Actor (LMB): CameraRig_Crane (CameraRig_Crane1)
+[2018.05.25-12.09.28:855][744]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Query.cpp:134 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.05.25-12.09.28:861][744]LogWindows: Windows GetLastError: L’opération a réussi. (0)
